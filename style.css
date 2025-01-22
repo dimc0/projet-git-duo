@@ -1,7 +1,17 @@
 .titre {
     font-size: 1.5em;
-    font-weight: bold;
-    color: #333;
+    color: #f9b929;
     margin-bottom: 10px;
-    background-color: aqua;
+    background-color:  #143868;
+    padding: 5px;
+    font: 1em sans-serif;
+    text-align: center;
+    text
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1a1414;
+    margin: 0;
+    padding: 0;
 }
